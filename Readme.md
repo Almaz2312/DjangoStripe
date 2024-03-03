@@ -56,5 +56,5 @@ git commit -m <commit_message>
 
 И затем запустите проверку следующей командой:
 ```bash
-pipenv run pre-commit run --all-files
+pre-commit run --all-files
 ```
