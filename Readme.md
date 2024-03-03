@@ -61,7 +61,10 @@ pre-commit run --all-files
 
 ### ◦ models
 
-Для проверки нужно создать модель Item, со значениями:
-name = New one
-descirpition = Test description
-price = price_1Oo7ftIahqXgcaEGinSLWsK6
+Для проверки нужно создать две модели Item, со значениями:
+1)  name = New one
+    description = Test description
+    price = price_1Oo7ftIahqXgcaEGinSLWsK6
+2)  name = T-Shirt
+    description = Django T-Shirt
+    price = price_1Oo7XnIahqXgcaEG7s2xFjwh
