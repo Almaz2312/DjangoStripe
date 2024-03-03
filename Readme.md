@@ -58,3 +58,10 @@ git commit -m <commit_message>
 ```bash
 pre-commit run --all-files
 ```
+
+### ◦ models
+
+Для проверки нужно создать модель Item, со значениями:
+name = New one
+descirpition = Test description
+price = price_1Oo7ftIahqXgcaEGinSLWsK6
